@@ -1,4 +1,13 @@
-# Inventory Management System - Frontend
+# In## 🚀 Quick Start
+
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or pnpm package manager
+- Git
+- Backend API running at `http://localhost:8000`
+
+
+### Installation Management System - Frontend
 
 A modern React-based frontend for inventory management built with Vite, Tailwind CSS, and React Router.
 
@@ -21,6 +30,11 @@ npm run dev
 Open `http://localhost:3000` in your browser.
 
 ### Docker Setup
+
+**Additional prerequisites for Docker:**
+- Docker and Docker Compose
+- 4GB+ RAM available
+- Port 3000 free
 
 ```bash
 docker-compose up --build
